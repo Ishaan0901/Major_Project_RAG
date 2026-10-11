@@ -14,7 +14,8 @@ model = HuggingFaceEmbeddings(
 
 
 llm= ChatGroq(
-    model='openai/gpt-oss-20b'
+    model='openai/gpt-oss-20b',
+    temperature=0
 )
 
 #   BACKUP MODELS:
