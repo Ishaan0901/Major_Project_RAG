@@ -11,11 +11,7 @@ env/
 # Helper script
 list_models.py
 
-# Folders to ignore (if they exist)
-docs/
-resources/
-
-# Generated vector store (rebuild with the ingest script)
+# Generated vector store (rebuild with phase_1.py)
 Vector_Store/
 *.faiss
 *.pkl
