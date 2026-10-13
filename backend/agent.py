@@ -72,5 +72,5 @@ if __name__ == "__main__":
 
         messages=result['messages']
 
-        print(messages[-1].content)
+        print(f'\n\nAI: {messages[-1].content}\n\n')
         
