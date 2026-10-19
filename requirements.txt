@@ -10,3 +10,9 @@ faiss-cpu
 sentence-transformers
 python-dotenv
 pydantic
+
+pandas 
+numpy
+scikit-learn
+matplotlib
+xgboost

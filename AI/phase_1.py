@@ -7,7 +7,7 @@ load_dotenv()
 
 
 #   Document Loaders:
-docs=PyPDFDirectoryLoader('Resources/RAG_Pdfs').load()
+docs=PyPDFDirectoryLoader('D:/major project/data/RAG_Pdfs').load()
 
 
 
