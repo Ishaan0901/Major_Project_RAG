@@ -10,6 +10,7 @@ env/
 
 # Helper script
 list_models.py
+todo.txt
 
 # Generated vector store (rebuild with phase_1.py)
 Vector_Store/
